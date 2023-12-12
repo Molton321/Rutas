@@ -14,7 +14,7 @@ root = tk.Tk()
 root.title("Rutas")
 root.config(width=1200, height=700)
 root.geometry("1086x670")
-root.iconbitmap("D:/Universidad de Caldas/Tercer Semestre/Estructura de Datos/Rutas/mapa.ico")
+root.iconbitmap("./mapa.ico")
 
 fuente_personalizada = font.Font(family="Verdana", size=10)
 estilo = ttk.Style()
